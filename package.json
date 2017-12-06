@@ -1,0 +1,15 @@
+{
+  "name": "AdventOfCode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "md5": "^2.2.1"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
